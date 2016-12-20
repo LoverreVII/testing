@@ -5,6 +5,6 @@
 
 <body>
     THIS IS GIT <br>
-    THIS IS ANOTHER GIT
+    THIS IS ALSO ANOTHER GIT TO REPLACE
 </body>
 </html>
